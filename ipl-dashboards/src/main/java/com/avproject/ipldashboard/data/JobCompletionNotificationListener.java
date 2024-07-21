@@ -16,7 +16,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
  
 import com.avproject.ipldashboard.model.Team;
-
+ 
 @Component
 public class JobCompletionNotificationListener extends JobExecutionListenerSupport {
 

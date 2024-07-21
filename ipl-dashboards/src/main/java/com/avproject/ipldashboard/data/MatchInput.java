@@ -18,7 +18,7 @@ public class MatchInput {
     private String method;
     private String umpire1;
     private String umpire2;
-     
+      
     public String getId() {
         return id;
     }
