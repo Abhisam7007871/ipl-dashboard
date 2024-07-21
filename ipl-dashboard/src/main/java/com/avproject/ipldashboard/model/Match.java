@@ -7,7 +7,7 @@ import javax.persistence.Id;
 
 @Entity
 public class Match {
-
+ 
     @Id
     private long id;
     private String city;
